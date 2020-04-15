@@ -1,7 +1,3 @@
-"""
-This module saves a welcome message.
-"""
-
 import json
 
 def welcome():
