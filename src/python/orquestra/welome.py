@@ -13,4 +13,4 @@ def welcome():
 
     with open("welcome.json",'w') as f:
         f.write(json.dumps(message_dict, indent=2)) # Write message to file as this will serve as output artifact
-Two important notes:
+
